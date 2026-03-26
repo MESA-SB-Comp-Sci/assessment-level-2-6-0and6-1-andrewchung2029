@@ -2,3 +2,20 @@
     box-sizing: border-box;
 }
 
+html{
+    background-color: grey;
+}
+
+
+h1 {
+    background-color: palevioletred;
+    color: white;
+}
+
+header p {
+    color:yellow
+}
+
+border1 {
+    background-color: white;
+}
